@@ -1,4 +1,4 @@
-# AnomaNet
+# AnomaNet (Alpha 0.1)
 
 ### Components
 
