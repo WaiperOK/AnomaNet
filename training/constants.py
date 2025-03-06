@@ -134,5 +134,5 @@ PROTOCOL_MAPPING = {
     'HTTP': 2,
     'HTTPS': 3,
     'ICMP': 4,
-    'Other': 5  # For protocols that do not fall into the above categories
+    'Other': 5 
 }
